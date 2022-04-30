@@ -1,0 +1,24 @@
+.Zhora {
+    font-size: medium;
+    margin: auto;
+        
+}
+
+.Zhora h1 {
+    color: red;
+}
+
+.Zhora p {
+    color: white;
+    /* width: 5px; */
+}
+
+.body {
+    /* background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif; 
+    */
+}
